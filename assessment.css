@@ -1,0 +1,39 @@
+h2{
+color: blue;
+  font-family: sans-serif;
+}
+h3{
+  color: blue;
+  font-family: sans-serif;
+}
+h4{
+  color: blue;
+  font-family: sans-serif;
+}
+h5{
+  color: blue;
+  font-family: sans-serif;
+}
+tr:first-child
+{
+  background-color: orange;
+}
+table,th,td{
+  border: 1px solid black;
+}
+td {
+  text-align: center;
+}
+ul{
+  list-style-type: square;
+}
+a {
+  color: red;
+  text-decoration: none;
+}
+blockquote{
+  background-color: navy;
+  color: white;
+form > ul {
+  list-style: none;
+}
